@@ -8,7 +8,7 @@ particlesJS("my-particles", {
             }
         },
         "color": {
-            "value": "#ffffff"
+            "value": "#0f0"
         },
         "shape": {
             "type": "triangle",
